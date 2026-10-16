@@ -1,0 +1,4 @@
+[build]
+  command = "npm install -g bun && bun install && bun run build"
+  publish = ".output/public"
+ 
